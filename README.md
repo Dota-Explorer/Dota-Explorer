@@ -12,4 +12,4 @@ My goal? To make the game better.
 
 My dream? To work at Valve.
 
-My future? To wind down my activities due to starting a second job.
+My future? To wind down my Dota activities due to starting a second job.
