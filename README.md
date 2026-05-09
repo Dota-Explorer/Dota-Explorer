@@ -6,4 +6,10 @@ A collection of my Dota Reports:
 
 [QoL](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31856) | [Confirmed Reports From Others](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23ConfirmedByDEXP)<br/>
 
-Contact email: dota.explore@gmail.com
+##
+
+My goal? To make the game better.
+
+My dream? To work at Valve.
+
+My future? To wind down my activities due to starting a second job.
