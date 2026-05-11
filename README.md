@@ -1,8 +1,11 @@
 A collection of my Dota Reports:
 
 
-[Mechanics](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233) | [Turbo](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32457)<br/>
+[Mechanics](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233)<br/>
+
 [Visuals](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32332) | [Descriptions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31273) <br/>
+
+[Turbo](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32457) | [Demo](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32495) | [Tutorial](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32496)<br/>
 
 [QoL](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31856) | [Confirmed Reports From Others](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23ConfirmedByDEXP)<br/>
 
