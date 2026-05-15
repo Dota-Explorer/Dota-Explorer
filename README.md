@@ -18,4 +18,4 @@ My dream? To work at Valve.
 My reality? To wind down my Dota activities due to starting a second job.
 
 ##
-How many hours did I spend editing Liqupedia, compiling reports on Github, and what did I get in return? Not only are your matches completely unbalanced, but people who play terribly have the power to send others to LP and reduce their behavior scores for "playing not good enough".
+How many hours did I spend editing Liqupedia, compiling reports on Github, and what did I get in return? Not only are your matches completely unbalanced, but people who play terribly have the power to send others to LP and reduce their behavior scores for "[playing not good enough](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32577)".
