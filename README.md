@@ -19,3 +19,8 @@ My reality? To wind down my Dota activities due to starting a second job.
 
 ##
 How many hours did I spend editing Liqupedia, compiling reports on Github, and what did I get in return? Not only are your matches completely unbalanced, but people who play terribly have the power to send others to LP and reduce their behavior scores for "[playing not good enough](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32577)".
+
+P.S. Despite the limitations on collecting match data from Immortal Draft, this is happening automatically right now thanks to a [vulnerability](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32393). 
+Furthermore, a publicly accessible website is being developed.
+
+
