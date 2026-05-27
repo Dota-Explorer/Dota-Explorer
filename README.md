@@ -14,7 +14,7 @@ A collection of my Dota Reports:
 ### [Evidence that the system for identifying violations and issuing penalties is broken](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32731) (CRITICAL)
 
 #
-### A message to the Dota developer:
+### Message to the Dota developer:
 If you have ANY suggestions or complaints about my activity on Dota2-Gameplay tracker, please just let me know in ANY way possible.<br/>
 I will no longer [respond](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32768) to hateful posts that inflate activity from people who don't even use the tracker.
 
