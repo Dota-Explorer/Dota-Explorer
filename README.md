@@ -13,6 +13,12 @@ A collection of my Dota Reports:
 #
 ### [Evidence that the system for identifying violations and issuing penalties is broken](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32731) (CRITICAL)
 
+#
+### A message to the Dota developer:
+If you have ANY suggestions or complaints about how I publish posts, please just let me know in any way possible.<br/>
+I will no longer [respond](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32768) to hateful posts that inflate activity from people who don't even use the tracker.
+
+##
 ##
 
 My goal? To make the game better.
@@ -20,10 +26,6 @@ My goal? To make the game better.
 My dream? To work at Valve.
 
 My reality? To wind down my Dota activities due to starting a second job.
-
-### A message to the Dota developer:
-If you have ANY suggestions or complaints about how I publish posts, please just let me know in any way possible.<br/>
-I will no longer [respond](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32768) to hateful posts that inflate activity from people who don't even use the tracker.
 
 ##
 How many hours did I spend editing Liqupedia, compiling reports on Github, and what did I get in return? Not only are your matches completely unbalanced, but people who play terribly have the power to send others to LP and reduce their behavior scores for "[playing not good enough](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32577)". 
