@@ -6,10 +6,12 @@ A collection of my Dota Reports:
 [Visuals](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32332) | [Descriptions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31273) <br/>
 
 [Turbo](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32457) | [Demo](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32495) | [Tutorial](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32496)<br/>
-
+#
 [QoL](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31856) | [Confirmed Reports From Others](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23ConfirmedByDEXP) | [(AD)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23АDCоnfirmed) <br/>
 
-[Evidence that the system for identifying violations and issuing penalties is broken](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32731)
+[Complaints about System Abuse From Others](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%22If%20only%20developer%20knew...%22)
+#
+### [Evidence that the system for identifying violations and issuing penalties is broken](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32731) (CRITICAL)
 
 ##
 
