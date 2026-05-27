@@ -15,7 +15,7 @@ A collection of my Dota Reports:
 
 #
 ### A message to the Dota developer:
-If you have ANY suggestions or complaints about how I publish posts, please just let me know in any way possible.<br/>
+If you have ANY suggestions or complaints about my activity on Dota2-Gameplay tracker, please just let me know in ANY way possible.<br/>
 I will no longer [respond](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32768) to hateful posts that inflate activity from people who don't even use the tracker.
 
 ##
