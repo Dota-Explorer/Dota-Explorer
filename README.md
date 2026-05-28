@@ -1,4 +1,4 @@
-A collection of my Dota Reports:
+### A collection of my Dota Reports:
 
 
 ### [Mechanics](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233)<br/>
@@ -24,12 +24,9 @@ If you have ANY suggestions or complaints about my activity on Dota2-Gameplay tr
 [Blocked Users](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233#issuecomment-4545610960)
 
 ##
-##
 
 My goal? To make the game better.
-
 My dream? To work at Valve.
-
 My reality? To wind down my Dota activities due to starting a second job.
 
 My [haters](https://www.youtube.com/shorts/Nj1WYbbiel8)? I love you!
