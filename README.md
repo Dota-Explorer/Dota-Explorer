@@ -27,9 +27,8 @@ My goal? To make the game better.<br/>
 My dream? To work at Valve.<br/>
 My reality? To wind down my Dota activities due to starting a second job.
 
-My [haters](https://www.youtube.com/shorts/Nj1WYbbiel8)? [I love you!](https://www.youtube.com/shorts/nFnqi4q_cWo) | 
-[Blocked Users](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233#issuecomment-4545610960) <br/>
-Just remember that truth is only the servant of good, and the road to hell is paved with good intentions.
+My [haters](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233#issuecomment-4545610960)? [I love you!](https://www.youtube.com/shorts/nFnqi4q_cWo)<br/>
+Just [remember](https://www.youtube.com/shorts/Nj1WYbbiel8) that truth is only the servant of good, and the road to hell is paved with good intentions.
 
 My [activity](https://www.youtube.com/shorts/Avknj64qiJc) on the forum?<br/>
 По количеству полезных постов —  TOP 1<br/>
