@@ -32,8 +32,15 @@ My dream? To work at Valve.
 
 My reality? To wind down my Dota activities due to starting a second job.
 
-My haters? I love you!
+My [haters](https://www.youtube.com/shorts/Nj1WYbbiel8)? I love you!
 Just remember that truth is only the servant of good, and the road to hell is paved with good intentions.
+
+My [activity](https://www.youtube.com/shorts/Avknj64qiJc) on the forum?<br/>
+По количеству полезных постов —  TOP 1<br/>
+По количеству бесполезных постов — TOP 1<br/>
+По количеству комментариев от разработчика — TOP 1!<br/>
+
+
 
 ##
 How many hours did I spend editing Liqupedia, compiling reports on Github, and what did I get in return? Not only are your matches completely unbalanced, but people who play terribly have the power to send others to LP and reduce their behavior scores for "[playing not good enough](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32577)". 
