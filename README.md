@@ -21,15 +21,14 @@
 ### Message to the Dota Developer:
 If you have ANY suggestions or complaints about my activity on Dota2-Gameplay tracker, please just let me know in ANY way possible.<br/>
 
-[Blocked Users](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233#issuecomment-4545610960)
-
 ##
 
 My goal? To make the game better.
 My dream? To work at Valve.
 My reality? To wind down my Dota activities due to starting a second job.
 
-My [haters](https://www.youtube.com/shorts/Nj1WYbbiel8)? I love you!
+My [haters](https://www.youtube.com/shorts/Nj1WYbbiel8)? I love you! | 
+[Blocked Users](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233#issuecomment-4545610960) <br/>
 Just remember that truth is only the servant of good, and the road to hell is paved with good intentions.
 
 My [activity](https://www.youtube.com/shorts/Avknj64qiJc) on the forum?<br/>
