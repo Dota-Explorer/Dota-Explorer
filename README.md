@@ -25,7 +25,7 @@ How many hours did I spend editing Liqupedia, compiling reports on Github, and w
 
 And the worst thing is that at the same time people do not receive Low Priority for [breaking their own items and endless runs to the enemy base](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32730).
 
-BTW, Despite the limitations on collecting match data from Immortal Draft, this is happening automatically right now thanks to a [vulnerability](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32720).
+BTW, despite the limitations on collecting match data from Immortal Draft, this is happening automatically right now thanks to a [vulnerability](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32720).
 
 ##
 
@@ -37,6 +37,6 @@ My [haters](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233#issueco
 Just [remember](https://www.youtube.com/shorts/Nj1WYbbiel8) that truth is only the servant of good, and the road to hell is paved with good intentions.
 
 My [activity](https://www.youtube.com/shorts/Avknj64qiJc) on the forum?<br/>
-По количеству полезных постов —  TOP 1<br/>
-По количеству бесполезных постов — TOP 1<br/>
+По количеству полезных постов —  TOP 1.<br/>
+По количеству бесполезных постов — TOP 1.<br/>
 По количеству комментариев от разработчика — TOP 1!<br/>
