@@ -29,6 +29,12 @@ BTW, despite the limitations on collecting match data from Immortal Draft, this 
 
 ##
 
+### Developer's words from main Dota2-Gameplay [page](https://github.com/ValveSoftware/Dota2-Gameplay):
+
+Remember to be kind to everyone here - we all love the game and we're all trying to make it the best possible.
+
+##
+
 My goal? To make the game better.<br/>
 My dream? To work at Valve.<br/>
 My reality? To wind down my Dota activities due to starting a second job.
