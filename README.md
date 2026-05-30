@@ -29,7 +29,7 @@ BTW, despite the limitations on collecting match data from Immortal Draft, this 
 
 ##
 
-### Developer's words from main Dota2-Gameplay [page](https://github.com/ValveSoftware/Dota2-Gameplay):
+### Message [from](https://github.com/ValveSoftware/Dota2-Gameplay) the Dota Developer:
 
 Remember to be kind to everyone here - we all love the game and we're all trying to make it the best possible.
 
@@ -47,4 +47,4 @@ My [activity](https://www.youtube.com/shorts/Avknj64qiJc) on the forum?<br/>
 По количеству бесполезных постов — TOP 1.<br/>
 По количеству [хейтеров](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233#issuecomment-4545610960) — TOP 1.<br/>
 
-# Fight! Fight! Fight!
+# And remember guys, I'm an ordinary player who just wants to make the game better.
