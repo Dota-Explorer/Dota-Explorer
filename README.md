@@ -45,6 +45,6 @@ Just [remember](https://www.youtube.com/shorts/Nj1WYbbiel8) that truth is only t
 My [activity](https://www.youtube.com/shorts/Avknj64qiJc) on the forum?<br/>
 По количеству полезных постов —  TOP 1.<br/>
 По количеству бесполезных постов — TOP 1.<br/>
-По количеству [хейтеров](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233#issuecomment-4545610960) — TOP 1.<br/>
+По количеству [хейтеров](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233#issuecomment-4549051365) — TOP 1.<br/>
 
 # And remember that I'm just a regular player and I don't work for Valve.
