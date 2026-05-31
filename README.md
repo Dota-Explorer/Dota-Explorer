@@ -29,7 +29,7 @@ BTW, despite the limitations on collecting match data from Immortal Draft, this 
 
 ##
 
-### "You are causing irreparable damage to Dota2-Gameplay and problems for the developer!"
+### "You are causing irreparable damage to [Dota2-Gameplay](https://github.com/ValveSoftware/Dota2-Gameplay/issues) and problems for the developer!"
 
 Luckily, the developer has already provided feedback on my work. You can find it here:
 
