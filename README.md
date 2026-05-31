@@ -29,17 +29,17 @@ BTW, despite the limitations on collecting match data from Immortal Draft, this 
 
 ##
 
-### Message [from](https://github.com/ValveSoftware/Dota2-Gameplay) the Dota Developer:
-
-Remember to be kind to everyone here - we all love the game and we're all trying to make it the best possible.
-
-##
-
-### You are causing irreparable damage to Dota2-Gameplay and problems for the developer!
+### "You are causing irreparable damage to Dota2-Gameplay and problems for the developer!"
 
 Luckily, the developer has already provided feedback on my work. You can find it here:
 
 https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233#issuecomment-4588504580
+
+##
+
+### Message [from](https://github.com/ValveSoftware/Dota2-Gameplay) the Dota Developer:
+
+Remember to be kind to everyone here - we all love the game and we're all trying to make it the best possible.
 
 ##
 
