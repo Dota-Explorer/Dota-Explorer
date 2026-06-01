@@ -51,7 +51,7 @@ My critics? [I love you!](https://www.youtube.com/shorts/nFnqi4q_cWo)<br/>
 Just [remember](https://www.youtube.com/shorts/Nj1WYbbiel8) that truth is only the servant of good, and the road to hell is paved with good intentions.
 
 My [activity](https://www.youtube.com/shorts/Avknj64qiJc) on the forum?<br/>
-By number of useful posts —  TOP 1.<br/>
+By the number of useful posts —  TOP 1.<br/>
 By the number of useless posts — TOP 1.<br/>
 By the number of [haters](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233#issuecomment-4549051365) — TOP 1.<br/>
 
