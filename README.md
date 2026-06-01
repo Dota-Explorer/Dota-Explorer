@@ -57,4 +57,4 @@ By the number of useful posts —  TOP 1.<br/>
 By the number of useless posts — TOP 1.<br/>
 By the number of comments from the developer — TOP 1.
 
-# And remember that I'm just a regular player and I don't work for Valve.
+# I'm just a regular player and I don't work for Valve.
