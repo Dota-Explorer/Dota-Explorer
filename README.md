@@ -43,7 +43,7 @@ Remember to be kind to everyone here - we all love the game and we're all trying
 
 ##
 
-### My message to the Community :
+### My message to the Community:
 Truth is only the servant of good, and the road to hell is paved with good intentions. <br/>
 
 ##
