@@ -43,12 +43,14 @@ Remember to be kind to everyone here - we all love the game and we're all trying
 
 ##
 
-My goal? To make the game better.<br/>
-My dream? To work at Valve.<br/>
-My reality? To wind down my Dota activities due to starting a second job.
+### My message to the Community :
+Truth is only the servant of good, and the road to hell is paved with good intentions. <br/>
 
-My critics? [I love you!](https://www.youtube.com/shorts/nFnqi4q_cWo)<br/>
-Just [remember](https://www.youtube.com/shorts/Nj1WYbbiel8) that truth is only the servant of good, and the road to hell is paved with good intentions.
+##
+My goal? To make the game more convenient, at least for me.<br/>
+My principle? Little things make perfection, but perfection is not a little thing.<br/>
+My reality? To wind down my Dota activities due to starting a second job.<br/>
+My dream? To work at Valve.<br/>
 
 My [activity](https://www.youtube.com/shorts/Avknj64qiJc) on the forum?<br/>
 By the number of useful posts —  TOP 1.<br/>
