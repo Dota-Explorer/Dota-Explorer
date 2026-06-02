@@ -1,4 +1,4 @@
-### You're probably overwhelmed.<br/>Start with the most important problems:
+### You're probably overwhelmed, so start with the most important issues:
 
 
 ### [Control Issues and Global Problems](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233)<br/>
