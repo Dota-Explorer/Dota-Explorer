@@ -1,8 +1,15 @@
-### A collection of my Dota Reports:
+### You're probably overwhelmed by the sheer number of reports.<br/>Start with the most important ones:
 
 
 ### [Control Issues and Global Problems](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233)<br/>
+
 [Other Interactions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32391)<br/>
+
+### [EVIDENCE: The System for identifying Violations and issuing Penalties is Broken](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32731)
+
+##
+
+### Other Dota Reports:
 
 [Visuals](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32332) | [Descriptions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31273) <br/>
 
