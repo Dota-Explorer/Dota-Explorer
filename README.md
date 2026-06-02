@@ -1,4 +1,4 @@
-### You're probably overwhelmed by the sheer number of reports.<br/>Start with the most important ones:
+### You're probably overwhelmed by the sheer number of threads.<br/>Start with the most important ones:
 
 
 ### [Control Issues and Global Problems](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233)<br/>
@@ -14,8 +14,6 @@
 [Visuals](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32332) | [Descriptions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31273) <br/>
 
 [Turbo](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32457) | [Demo](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32495) | [Tutorial](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32496)<br/>
-
-### [EVIDENCE: The System for identifying Violations and issuing Penalties is Broken](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32731)
 
 ##
 
