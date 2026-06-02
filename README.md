@@ -17,7 +17,7 @@
 
 ##
 
-### [QoL Requests](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31856)
+### [QoL Requests](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31856) | I'd really like you to include some of my requests for new functionality. Please, take a look
 #
 [Confirmed Reports From Others](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23ConfirmedByDEXP) | [(AD)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23АDCоnfirmed) | 
 [(System Abuse)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%22If%20only%20developer%20knew...%22)<br/>
