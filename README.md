@@ -1,7 +1,8 @@
 ### A collection of my Dota Reports:
 
 
-### [Mechanics](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233)<br/>
+### [Control & Global Problems](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233)<br/>
+[Other Mechanics](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32391)
 
 [Visuals](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32332) | [Descriptions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31273) <br/>
 
