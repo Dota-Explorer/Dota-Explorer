@@ -17,10 +17,16 @@
 
 ##
 
-### [QoL Requests](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31856) | I'd really like you to include some of my requests for new functionality. Please, take a look.
+##### [QoL Requests](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31856) | I'd really like you to include some of my requests for new functionality. Please, take a look.
 #
-[Confirmed Reports From Others](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23ConfirmedByDEXP) | [(AD)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23АDCоnfirmed) | 
+
+### You can also use these links to view valid reports from other players:
+[Confirmed Reports From Others](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23ConfirmedByDEXP) | [(Ability Draft)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23АDCоnfirmed) | 
 [(System Abuse)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%22If%20only%20developer%20knew...%22)<br/>
+
+###### Please note that reports about [cosmetics](https://github.com/ValveSoftware/Dota2-Gameplay/issues/23575) do not appear here.<br/>There will be no reports from [sikleq](https://github.com/sikleq) because he blocked me.
+
+
 
 #
 
