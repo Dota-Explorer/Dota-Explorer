@@ -5,15 +5,17 @@
 
 [Other Interactions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32391)<br/>
 
+[Visuals](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32332) (broken cast ranges, hitboxes etc)
+
 ### [EVIDENCE: The System for identifying Violations and issuing Penalties is Broken](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32731)
 
 ##
 
 ### Other Dota Reports:
 
-[Visuals](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32332) | [Descriptions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31273) <br/>
-
 [Turbo](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32457) | [Demo](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32495) | [Tutorial](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32496)<br/>
+
+[Descriptions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31273) <br/>
 
 ##
 
