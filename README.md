@@ -58,11 +58,13 @@ Remember to be kind to everyone here - we all love the game and we're all trying
 ### My message to the Community:
 Truth is only the servant of good, and the road to hell is paved with good intentions. <br/>
 
-##
+#
 
 ### My [activity](https://www.youtube.com/shorts/Avknj64qiJc) on the forum:<br/>
 By the number of useful posts — TOP 1.<br/>
 By the number of useless posts — TOP 1.<br/>
 By the number of comments from the developer — TOP 1.
+
+#
 
 # I'm just a regular player and I don't work for Valve.
