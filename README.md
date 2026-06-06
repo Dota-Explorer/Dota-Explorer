@@ -34,15 +34,9 @@
 &nbsp;<br/>
 &nbsp;<br/>
 &nbsp;<br/>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
 
 ### Message to the Dota Developer:
 If you have any suggestions or complaints about my activity on Dota2-Gameplay tracker, please just let me know.<br/>
