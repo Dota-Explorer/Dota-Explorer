@@ -18,7 +18,7 @@
 [Descriptions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31273) <br/>
 
 
-###### I finished compiling a collection of bugs I found in the game. It turns out there aren't that many bugs..
+###### I finished compiling a collection of bugs. It turns out there aren't that many..
 
 ##
 
