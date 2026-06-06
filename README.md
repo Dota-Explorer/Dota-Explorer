@@ -60,7 +60,7 @@ Truth is only the servant of good, and the road to hell is paved with good inten
 
 ##
 
-### My [activity](https://www.youtube.com/shorts/Avknj64qiJc) on the forum?<br/>
+### My [activity](https://www.youtube.com/shorts/Avknj64qiJc) on the forum:<br/>
 By the number of useful posts — TOP 1.<br/>
 By the number of useless posts — TOP 1.<br/>
 By the number of comments from the developer — TOP 1.
