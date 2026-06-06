@@ -17,6 +17,9 @@
 
 [Descriptions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31273) <br/>
 
+
+###### I finished compiling a collection of bugs I found in the game. It turns out there aren't that many bugs..
+
 ##
 
 ##### [QoL Requests](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31856) | I'd really like you to include some of my requests for new functionality. Please, take a look.
@@ -40,14 +43,6 @@ P.S. Despite the limitations on collecting match data from Immortal Draft, this 
 
 ##
 
-### "You are causing irreparable damage to [Dota2-Gameplay](https://github.com/ValveSoftware/Dota2-Gameplay/issues) and problems for the developer!"
-
-Luckily, the developer has already provided feedback on my work. You can find it here:
-
-https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233#issuecomment-4588504580
-
-##
-
 ### Message [from](https://github.com/ValveSoftware/Dota2-Gameplay) the Dota Developer:
 
 Remember to be kind to everyone here - we all love the game and we're all trying to make it the best possible.
@@ -58,13 +53,13 @@ Remember to be kind to everyone here - we all love the game and we're all trying
 Truth is only the servant of good, and the road to hell is paved with good intentions. <br/>
 
 ##
-My goal? To make the game more convenient, at least for me.<br/>
+My goal? To make the game more convenient.<br/>
 My principle? Little things make perfection, but perfection is not a little thing.<br/>
 My reality? To wind down my Dota activities due to starting a second job.<br/>
 My dream? To work at Valve.<br/>
 
 My [activity](https://www.youtube.com/shorts/Avknj64qiJc) on the forum?<br/>
-By the number of useful posts —  TOP 1.<br/>
+By the number of useful posts — TOP 1.<br/>
 By the number of useless posts — TOP 1.<br/>
 By the number of comments from the developer — TOP 1.
 
