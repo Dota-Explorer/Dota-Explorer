@@ -11,24 +11,20 @@
 
 ##
 
-### Other Dota Reports:
-
 [Turbo](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32457) | [Demo](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32495) | [Tutorial](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32496)<br/>
 
 [Descriptions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31273) <br/>
 
-
 ###### I finished compiling a collection of bugs. It turns out there aren't that many..
+
+##### You can also use these links to view valid reports from other players:
+[Confirmed Reports From Others](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23ConfirmedByDEXP)
+
+[(Ability Draft)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23АDCоnfirmed) | [(Cosmetic)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23CosmTBFO) | [(System Abuse)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%22If%20only%20developer%20knew...%22)
 
 ##
 
 ##### [QoL Requests](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31856) | I'd really like you to include some of my requests for new functionality. Please, take a look.
-#
-
-### You can also use these links to view valid reports from other players:
-[Confirmed Reports From Others](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23ConfirmedByDEXP)
-
-[(Ability Draft)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23АDCоnfirmed) | [(Cosmetic)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23CosmTBFO) | [(System Abuse)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%22If%20only%20developer%20knew...%22)
 
 #
 
