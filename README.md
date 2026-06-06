@@ -33,7 +33,7 @@
 #
 
 ### Message to the Dota Developer:
-If you have ANY suggestions or complaints about my activity on Dota2-Gameplay tracker, please just let me know in any way possible.<br/>
+If you have any suggestions or complaints about my activity on Dota2-Gameplay tracker, please just let me know.<br/>
 
 How many hours did [I](https://www.youtube.com/shorts/DxDmNXRPqQo) spend editing Liqupedia, compiling reports on Github, and what did I get in return?<br/>
 Not only are your matches completely unbalanced, but people who play terribly have the power to send others to LP and reduce their behavior scores for "[playing not good enough](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32577)".<br/>
