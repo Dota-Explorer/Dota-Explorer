@@ -1,6 +1,3 @@
-### You're probably overwhelmed, so start with the most important issues:
-
-
 ### [Control Issues and Global Problems](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233)<br/>
 
 [Other Interactions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32391) | [Visuals](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32332)<br/>
