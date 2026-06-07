@@ -5,7 +5,7 @@
 
 [Other Interactions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32391)<br/>
 
-[Visuals](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32332) (broken cast ranges, hitboxes etc)
+[Visuals](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32332)
 
 ### [EVIDENCE: The System for identifying Violations and issuing Penalties is Broken](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32731)
 
