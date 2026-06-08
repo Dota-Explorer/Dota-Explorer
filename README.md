@@ -26,13 +26,6 @@
 
 #
 
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-
 ### Message to the Dota Developer:
 If you have any suggestions or complaints about my activity on Dota2-Gameplay tracker, please just let me know.<br/>
 
@@ -43,6 +36,20 @@ And the worst thing is that at the same time people do not receive Low Priority 
 P.S. Despite the limitations on collecting match data from Immortal Draft, this is happening automatically right now thanks to a [vulnerability](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32828).
 
 #
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+
 
 ### Message [from](https://github.com/ValveSoftware/Dota2-Gameplay) the Dota Developer:
 
@@ -52,6 +59,8 @@ Remember to be kind to everyone here - we all love the game and we're all trying
 
 ### My message to the Community:
 Truth is only the servant of good, and the road to hell is paved with good intentions. <br/>
+
+###### Take away the meaning of a word and the whole world will turn into a brothel and a circus.
 
 #
 
