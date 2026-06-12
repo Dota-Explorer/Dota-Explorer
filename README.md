@@ -14,11 +14,12 @@
 
 #
 
-###### You can also use these links to view valid reports from other players:
+###### You can also use these links to view valid reports from other players [FROZEN]:
 [Confirmed Reports From Others](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23ConfirmedByDEXP)
 
 [(Ability Draft)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23АDCоnfirmed) | [(Cosmetic)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23CosmTBFO) | [(System Abuse)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%22If%20only%20developer%20knew...%22)
 
+###### UPD: As I said earlier, I no longer have time to do this for free, so...
 #
 
 ##### [QoL Requests](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31856)
@@ -62,6 +63,11 @@ Take away the meaning of a word and the whole world will turn into a brothel and
 
 ###### Truth is only the servant of good, and the road to hell is paved with good intentions.
 
+#
+
+### If you have problems/questions about Dota and you need help:
+You can contact me via the link:<br/>
+https://t.me/Dota_Mechanics_Chat
 #
 
 ### My [activity](https://www.youtube.com/shorts/Avknj64qiJc) on the forum:<br/>
