@@ -59,11 +59,7 @@ Remember to be kind to everyone here - we all love the game and we're all trying
 #
 
 ### My message to the Community:
-I'm always happy to receive suggestions for improvement and point out factual errors, but I respond to the dissatisfaction of people with a clothespin on their noses simply by blocking.
-
-###### Take away the meaning of a word and the whole world will turn into a brothel and a circus.
-
-###### Truth is only the servant of good, and the road to hell is paved with good intentions.
+If you don't like me, remember that no matter what you [do](https://www.youtube.com/shorts/Nj1WYbbiel8), nothing will change.
 
 #
 
