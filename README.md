@@ -62,7 +62,6 @@ If you don't like me, remember that no matter what you [do](https://www.youtube.
 #
 
 ### If you have problems/questions about Dota and you need help:
-You can contact me via the link.<br/>
 TG: [Dota_Mechanics_Chat](https://t.me/Dota_Mechanics_Chat)
 
 ###### I’ve covered important details about the behavior & communication score in [my guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3741305900).
