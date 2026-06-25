@@ -1,4 +1,4 @@
-# My watch is ended.
+# MY WATCH HAS ENDED
 
 ### [Control Issues and Global Problems](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233)<br/>
 
