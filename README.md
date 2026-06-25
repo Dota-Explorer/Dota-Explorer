@@ -1,8 +1,12 @@
+# My watch is ended.
+
 ### [Control Issues and Global Problems](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233)<br/>
 
 [Other Interactions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32391) | [Visuals](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32332)<br/>
 
 ### [EVIDENCE: The System for identifying Violations and issuing Penalties is Broken](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32731)
+
+
 
 ##
 
@@ -18,8 +22,6 @@
 [Confirmed Reports From Others](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23ConfirmedByDEXP)
 
 [(Ability Draft)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23АDCоnfirmed) | [(Cosmetic)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23CosmTBFO) | [(System Abuse)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%22If%20only%20developer%20knew...%22)
-
-###### UPD: As I said earlier, I no longer have time to do this for free, so...
 #
 
 ##### [QoL Requests](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31856)
@@ -48,16 +50,17 @@ And the worst thing is that at the same time people do not receive Low Priority 
 &nbsp;<br/>
 &nbsp;<br/>
 &nbsp;<br/>
-
-
-### Message [from](https://github.com/ValveSoftware/Dota2-Gameplay) the Dota Developer:
-
-Remember to be kind to everyone here - we all love the game and we're all trying to make it the best possible.
-
 #
 
 ### My message to the Community:
 If you don't like me, remember that no matter what you [do](https://www.youtube.com/shorts/Nj1WYbbiel8), nothing will change.
+
+###### You hate and despise each other and this mutual hatred is the only thing that makes you whole.
+
+#
+
+### My Motto:
+You don't cry about the world being bad, you fight it.
 
 #
 
@@ -65,13 +68,6 @@ If you don't like me, remember that no matter what you [do](https://www.youtube.
 TG: [Dota_Mechanics_Chat](https://t.me/Dota_Mechanics_Chat)
 
 ###### I’ve covered important details about the behavior & communication score in [my guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3741305900).
-#
-
-### My [activity](https://www.youtube.com/shorts/Avknj64qiJc) on the forum:<br/>
-By the number of useful posts — TOP 1.<br/>
-By the number of useless posts — TOP 1.<br/>
-By the number of comments from the developer — TOP 1.
-
 #
 
 # I'm just a regular player and I don't work for Valve.
