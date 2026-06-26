@@ -27,8 +27,11 @@
 How many hours did [I](https://www.youtube.com/shorts/DxDmNXRPqQo) spend editing Liqupedia, compiling reports on Github, and what did I get in return?<br/>
 Not only are your matches completely unbalanced, but people who play terribly have the power to send others to LP and reduce their behavior scores for "[playing not good enough](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32577)".<br/>
 And the worst thing is that at the same time people do not receive Low Priority for [breaking their own items and endless runs to the enemy base](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32730).
-
 #
+#
+
+&nbsp;<br/>
+&nbsp;<br/>
 
 ### If you have problems/questions about Dota and you need help:
 TG: [Dota_Mechanics_Chat](https://t.me/Dota_Mechanics_Chat)
