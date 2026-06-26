@@ -1,23 +1,23 @@
 # <div align="center"> MY WATCH HAS ENDED </div>
+### <div align="center"> LIST OF BUGS: </div>
 
-### <div align="center"> [Control Issues and Global Problems](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233)<br/> </div>
 
-[Other Interactions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32391) | [Visuals](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32332)<br/> </div>
 
-### [EVIDENCE: The System for identifying Violations and issuing Penalties is Broken](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32731)
+### <div align="center"> [Control Issues and Global Problems](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233) <br/> </div>
 
-##
-
-[Turbo](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32457) | [Demo](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32495) | [Tutorial](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32496)<br/>
-
-[Descriptions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31273) <br/>
-
-###### I finished compiling a collection of bugs. It turns out there aren't that many..
+### <div align="center"> [Other Interactions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32391) | [Visuals](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32332) <br/> </div>
 
 #
 
-##### [QoL Requests](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31856)
-###### I'd really like you to include some of my requests for new functionality. Please, take a look.
+### <div align="center"> [EVIDENCE: The System for identifying Violations and issuing Penalties is Broken](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32731) </div>
+
+#
+
+### <div align="center"> [Descriptions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31273) <br/> </div>
+
+#
+
+#### <div align="center"> [QoL Requests](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31856)  </div>
 
 #
 
@@ -26,14 +26,6 @@ How many hours did [I](https://www.youtube.com/shorts/DxDmNXRPqQo) spend editing
 Not only are your matches completely unbalanced, but people who play terribly have the power to send others to LP and reduce their behavior scores for "[playing not good enough](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32577)".<br/>
 And the worst thing is that at the same time people do not receive Low Priority for [breaking their own items and endless runs to the enemy base](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32730).
 
+#
+
 ### <div align="center"> [THE LAST WISH](https://github.com/ValveSoftware/Dota2-Gameplay/issues/33298) </div>
-#
-
-&nbsp;<br/>
-&nbsp;<br/>
-
-#
-###### ~~You can also use these links to view valid reports from other players:~~
-[Confirmed Reports From Others](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23ConfirmedByDEXP)
-
-[(Ability Draft)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23АDCоnfirmed) | [(Cosmetic)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23CosmTBFO) | [(System Abuse)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%22If%20only%20developer%20knew...%22)
