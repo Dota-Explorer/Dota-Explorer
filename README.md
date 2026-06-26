@@ -30,11 +30,10 @@ And the worst thing is that at the same time people do not receive Low Priority 
 
 ### [THE LAST WISH](https://github.com/ValveSoftware/Dota2-Gameplay/issues/33298)
 #
+
+&nbsp;<br/>
+&nbsp;<br/>
 #
-
-&nbsp;<br/>
-&nbsp;<br/>
-
 ### If you have problems/questions about Dota and you need help:
 TG: [Dota_Mechanics_Chat](https://t.me/Dota_Mechanics_Chat)
 
