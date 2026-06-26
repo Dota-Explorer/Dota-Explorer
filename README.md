@@ -1,5 +1,7 @@
- # MY WATCH HAS ENDED
-# The last wish: [#33298](https://github.com/ValveSoftware/Dota2-Gameplay/issues/33298)
+### MY WATCH HAS ENDED
+
+#
+
 ### [Control Issues and Global Problems](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233)<br/>
 
 [Other Interactions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32391) | [Visuals](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32332)<br/>
@@ -27,6 +29,8 @@
 How many hours did [I](https://www.youtube.com/shorts/DxDmNXRPqQo) spend editing Liqupedia, compiling reports on Github, and what did I get in return?<br/>
 Not only are your matches completely unbalanced, but people who play terribly have the power to send others to LP and reduce their behavior scores for "[playing not good enough](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32577)".<br/>
 And the worst thing is that at the same time people do not receive Low Priority for [breaking their own items and endless runs to the enemy base](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32730).
+
+P.S. The last [wish](https://github.com/ValveSoftware/Dota2-Gameplay/issues/33298).
 #
 #
 
