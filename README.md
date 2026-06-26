@@ -40,11 +40,6 @@ TG: [Dota_Mechanics_Chat](https://t.me/Dota_Mechanics_Chat)
 ###### I’ve covered important details about the behavior & communication score in [my guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3741305900).
 
 #
-
-### My Motto:
-You don't cry about the world being bad, you fight it.
-
-#
 ###### ~~You can also use these links to view valid reports from other players:~~
 [Confirmed Reports From Others](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23ConfirmedByDEXP)
 
