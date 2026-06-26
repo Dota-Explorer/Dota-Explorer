@@ -45,17 +45,7 @@ TG: [Dota_Mechanics_Chat](https://t.me/Dota_Mechanics_Chat)
 You don't cry about the world being bad, you fight it.
 
 #
-
-&nbsp;<br/>
-&nbsp;<br/>
-
-### I'm just a regular player and I don't work for Valve.
-
-&nbsp;<br/>
-&nbsp;<br/>
-
-#
-###### You can also use these links to view valid reports from other players [FROZEN]:
+###### ~~You can also use these links to view valid reports from other players:~~
 [Confirmed Reports From Others](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23ConfirmedByDEXP)
 
-[(Ability Draft)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23АDCоnfirmed) | [(Cosmetic)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23CosmTBFO) | [(System Abuse)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%22If%20only%20developer%20knew...%22)
+[(Ability Draft)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23АDCоnfirmed) | [(Cosmetic)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23CosmTBFO) | [(System Abuse)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%22If%20only%20developer%20knew...%22)~~
