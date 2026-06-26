@@ -1,5 +1,5 @@
 # <div align="center"> MY WATCH HAS ENDED </div>
-### <div align="center"> LIST OF BUGS: </div>
+### <div align="center"> LIST OF BUGS </div>
 
 
 
