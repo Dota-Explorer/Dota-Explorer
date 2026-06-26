@@ -46,16 +46,15 @@ You don't cry about the world being bad, you fight it.
 
 #
 
-# I'm just a regular player and I don't work for Valve.
+&nbsp;<br/>
+&nbsp;<br/>
+
+### I'm just a regular player and I don't work for Valve.
+
+&nbsp;<br/>
+&nbsp;<br/>
 
 #
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-
 ###### You can also use these links to view valid reports from other players [FROZEN]:
 [Confirmed Reports From Others](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23ConfirmedByDEXP)
 
