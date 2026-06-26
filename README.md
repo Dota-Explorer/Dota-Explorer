@@ -48,6 +48,7 @@ You don't cry about the world being bad, you fight it.
 
 # I'm just a regular player and I don't work for Valve.
 
+#
 &nbsp;<br/>
 &nbsp;<br/>
 &nbsp;<br/>
