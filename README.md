@@ -18,12 +18,6 @@
 
 #
 
-###### You can also use these links to view valid reports from other players [FROZEN]:
-[Confirmed Reports From Others](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23ConfirmedByDEXP)
-
-[(Ability Draft)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23АDCоnfirmed) | [(Cosmetic)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23CosmTBFO) | [(System Abuse)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%22If%20only%20developer%20knew...%22)
-#
-
 ##### [QoL Requests](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31856)
 ###### I'd really like you to include some of my requests for new functionality. Please, take a look.
 
@@ -41,19 +35,19 @@ And the worst thing is that at the same time people do not receive Low Priority 
 &nbsp;<br/>
 &nbsp;<br/>
 &nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-#
 
-### My message to the Community:
-If you don't like me, remember that no matter what you [do](https://www.youtube.com/shorts/Nj1WYbbiel8), nothing will change.
+###### You can also use these links to view valid reports from other players [FROZEN]:
+[Confirmed Reports From Others](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23ConfirmedByDEXP)
 
-###### You hate and despise each other and this mutual hatred is the only thing that makes you whole.
+[(Ability Draft)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23АDCоnfirmed) | [(Cosmetic)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23CosmTBFO) | [(System Abuse)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%22If%20only%20developer%20knew...%22)
+
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
 
 #
 
@@ -61,7 +55,6 @@ If you don't like me, remember that no matter what you [do](https://www.youtube.
 TG: [Dota_Mechanics_Chat](https://t.me/Dota_Mechanics_Chat)
 
 ###### I’ve covered important details about the behavior & communication score in [my guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3741305900).
-
 
 #
 
