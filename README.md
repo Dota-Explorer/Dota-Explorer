@@ -1,4 +1,3 @@
-# <div align="center"> MY WATCH HAS ENDED </div>
 ### <div align="center"> LIST OF BUGS </div>
 
 
@@ -27,4 +26,4 @@ And the worst thing is that at the same time people do not receive Low Priority 
 
 #
 
-### <div align="center"> [THE LAST WISH](https://github.com/ValveSoftware/Dota2-Gameplay/issues/33298) </div>
+### <div align="center"> [THE WISH](https://github.com/ValveSoftware/Dota2-Gameplay/issues/33298) </div>
