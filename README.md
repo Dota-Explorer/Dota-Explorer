@@ -15,6 +15,4 @@
 
 ##### <div align="center"> [QoL Requests](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31856)  </div>
 
-#
-
 ### <div align="center"> [EVIDENCE: The System for identifying Violations and issuing Penalties is Broken](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32731) </div>
