@@ -6,10 +6,9 @@
 
 ### <div align="center"> [Other Interactions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32391) | [Visuals](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32332) <br/> </div>
 
-#
-
 ### <div align="center"> [Descriptions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31273) <br/> </div>
 
+#
 #
 
 ### <div align="center"> [THE WISH](https://github.com/ValveSoftware/Dota2-Gameplay/issues/33298) </div>
