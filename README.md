@@ -17,12 +17,16 @@
 #### <div align="center"> [(Ability Draft)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23АDCоnfirmed) | [(Cosmetic)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%23CosmTBFO) | [(System Abuse)](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aopen%20%22If%20only%20developer%20knew...%22) </div>
 
 
-#
+##
 
 ### <div align="center"> [THE WISH](https://github.com/ValveSoftware/Dota2-Gameplay/issues/33298) </div>
 
-#
+##
 
 ### <div align="center"> [QoL Requests](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31856)  </div>
 
 ### <div align="center"> [EVIDENCE: The System for identifying Violations and issuing Penalties is Broken](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32731) </div>
+
+##
+
+###### <div align="center"> [FIXED](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aclosed%20author%3Adota-explorer%20fixed) </div>
