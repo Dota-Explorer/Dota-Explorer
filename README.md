@@ -4,13 +4,15 @@
 
 ### <div align="center"> [Control Issues and Global Problems](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233) <br/> </div>
 
+
+### <div align="center"> [RUBICK IS BROKEN](https://github.com/ValveSoftware/Dota2-Gameplay/issues/34246)</div>
+
 ### <div align="center"> [Other Interactions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32391) | [Visuals](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32332) <br/> </div>
 
 ### <div align="center"> [Descriptions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31273) <br/> </div>
 
 
 ###### <div align="center"> [FIXED](https://github.com/ValveSoftware/Dota2-Gameplay/issues?q=is%3Aissue%20state%3Aclosed%20author%3Adota-explorer%20fixed) </div>
-
 
 ##
 
