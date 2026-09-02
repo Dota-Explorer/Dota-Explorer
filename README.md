@@ -34,6 +34,3 @@
 &nbsp;<br/>
 &nbsp;<br/>
 &nbsp;<br/>
-
-### <div align="center"> My Watch Is Over</div>
-### <div align="center">31.08.2026 </div>
