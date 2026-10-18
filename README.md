@@ -4,7 +4,8 @@
 
 ### <div align="center"> [Control Issues and Global Problems](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31233) <br/> </div>
 
-#### <div align="center"> [Other Interactions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32391) | [Visuals](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32332) | [Descriptions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31273)<br/> </div>
+#### <div align="center"> [Other Interactions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32391) <br/> </div>
+### <div align="center"> [Visuals](https://github.com/ValveSoftware/Dota2-Gameplay/issues/32332) | [Descriptions](https://github.com/ValveSoftware/Dota2-Gameplay/issues/31273) <br/> </div>
 
 ##
 
