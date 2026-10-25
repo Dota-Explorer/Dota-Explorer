@@ -27,7 +27,3 @@
 &nbsp;<br/>
 &nbsp;<br/>
 &nbsp;<br/>
-
-
-
-### <div align="center"> [THE WISH](https://github.com/ValveSoftware/Dota2-Gameplay/issues/33298) </div>
